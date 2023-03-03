@@ -1,2 +1,2 @@
 # MyRepositorio
-Primer ejercicio
+Este es el desarrollo del primer ejercicio del curso. 
